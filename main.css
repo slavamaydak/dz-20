@@ -1,0 +1,168 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Poppins";
+}
+
+.header {
+    background-image: url("https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,fit=crop/stornowayj2oil/heroimage-A1aVeGeGzkheyzwj.png");
+    background-size: cover;
+    height: 140vh;
+max-width: 100%;
+}
+
+.otstup {
+    width: 1200px;
+    margin: auto;
+    height: 100%;
+}
+
+.meny-title {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    text-transform: uppercase ;
+    font-weight: 600;
+    margin-right: 400px;
+}
+
+.links{
+color: rgb(255, 255, 255);
+font-size: 17px;
+font-weight: 400;
+text-decoration: none;
+margin-right: 60px;
+}
+
+.links:hover {
+    border-bottom: 2px solid white;
+
+}
+
+.meny {
+    display: flex;
+    align-items: center; 
+    padding-top: 40px;
+}
+
+
+.s-1-title {
+    color: white;
+    font-weight: 600;
+    font-size: 95px;
+    margin-bottom: 70px;
+}
+
+.s-1-title-div {
+    margin-top: 50vh;
+    text-align: center;
+}
+
+.s-1-bottom {
+    text-decoration: none;
+    color: black;
+    padding: 20px 50px;
+    background-color: white;
+   
+}
+
+.s-1-bottom:hover {
+    background-color: black;
+color: white;
+}
+
+
+
+.s-2 {
+    margin: 200px 0px;
+}
+
+.xui{
+    
+   text-align: center;
+}
+
+.otstup-2 {
+    width: 600px;
+    margin: auto;
+    height: 100%;
+}
+
+.s-2-title {
+    font-weight: 600;
+    color: black;
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+.s-2-text {
+    font-weight: 200;
+    font-size: 16px;
+    margin-bottom: 75px;
+}
+
+.s-2-bottom {
+    text-decoration: none;
+    color: white;
+    padding: 20px 50px;
+    background-color: black;
+    
+}
+
+.s-2-bottom:hover{
+    background-color: rgb(59, 59, 59);
+}
+
+
+
+.s-3 {
+    background-color: black;
+    background-size: cover;
+    height: 150vh;
+}
+
+.s-3-title {
+    color: white;
+    font-weight: 600;
+    font-size: 60px;
+    padding: 120px 0px 60px 0px;
+    text-align: center;
+}
+
+.s-3-galery{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+}
+
+.s-3-galery-div{
+    text-align: center;
+}
+
+.s-3-galery-foto{
+    width: 380px;
+    margin: 10px;
+}
+
+.s-3-galery-text {
+    color: white;
+    font-weight: 200;
+    font-size: 18px;
+}
+
+.s-3-bottom {
+    text-decoration: none;
+    color: black;
+    padding: 20px 50px;
+    background-color: white;
+    
+}
+
+.s-3-bottom:hover{
+    color: white;
+    background-color: rgb(34, 34, 34);
+}
+
+.s-3-div {
+ text-align: center;
+ margin-top: 100px;
+}
